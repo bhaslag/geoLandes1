@@ -13,8 +13,12 @@
 
 <body>
 
+<navbar>
+</navbar>
 <div class="container">
-
+  <div class="col-xs-8 col-xs-offset-2">
+    <h2>Notre Projet et Interets</h2>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1jKw8NJdp2W-zhKxYSS5QzqHeRhU" width="640" height="480"></iframe>
 </div>
 </body>
 </html>
